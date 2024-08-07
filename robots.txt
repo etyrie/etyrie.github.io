@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etyrie.github.io/sitemap.html.gz
+Sitemap: https://etyrie.github.io/app/sitemap.html.gz
+Sitemap: https://etyrie.github.io/assets/sitemap.html.gz
+Sitemap: https://etyrie.github.io/css/sitemap.html.gz
+Sitemap: https://etyrie.github.io/includes/sitemap.html.gz
+Sitemap: https://etyrie.github.io/item/sitemap.html.gz
+Sitemap: https://etyrie.github.io/src/sitemap.html.gz
